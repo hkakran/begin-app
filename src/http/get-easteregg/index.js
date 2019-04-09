@@ -14,10 +14,10 @@ let html = `
   </head>
   <body>
     <h1 class="center-text">
-      Hello world!
+      Hello new route!
     </h1>
     <p class="center-text">
-      Your new route is ready to go!
+      you found an easter egg!
     </p>
     <p class="center-text">
       Learn more about building <a href="https://docs.begin.com/en/functions/http/" class="link" target="_blank">Begin HTTP functions here</a>.
