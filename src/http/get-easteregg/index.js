@@ -14,7 +14,7 @@ let html = `
   </head>
   <body>
     <h1 class="center-text">
-      Hello new route!
+      Hello horatio!
     </h1>
     <p class="center-text">
       you found an easter egg!
